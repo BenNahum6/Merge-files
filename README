@@ -1,0 +1,12 @@
+The code is written on the Linux system.
+
+Code Description:
+The code deals with files.
+The software receives two files with a txt extension and reads from each of them a line and pastes them into a third file,
+so that there is nothing more to read from any of the files.
+
+Useful files in the code for testing purposes:
+fileA.txt & fileB.txt (other txt files can be selected for testing).
+
+After running:
+After running you will see a file named fileC where the text from the filesA & filrB will be.

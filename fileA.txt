@@ -1,0 +1,2 @@
+this is line one from fileA.
+this is line two from fileA.
